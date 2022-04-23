@@ -22,7 +22,7 @@ function calculateEntry(entrants) {
   if (typeof entrants !== 'object') {
     return 0;
   }
-  if (entrants.length === undefined) {
+  if (entrants.length === undefined || typeof entrants !== 'object') {
     return 0;
   }
   const resultado = 0;
