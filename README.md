@@ -1,1 +1,3 @@
-construction README customizado em construção ! construction
+# Readme em construção
+
+O README do projeto está sendo desenvolvido atualmente para fornecer informações úteis sobre o projeto em questão. O README é geralmente um arquivo de texto que contém informações importantes sobre o projeto, como o objetivo do projeto, as ferramentas e tecnologias utilizadas, as instruções de instalação e uso, as informações de licenciamento e os créditos para os contribuidores. Desenvolver um README completo e preciso é importante para garantir que outros desenvolvedores possam entender facilmente o projeto e colaborar de forma eficiente. Portanto, é uma parte importante do processo de desenvolvimento de software e deve ser atualizado regularmente para manter as informações precisas e atualizadas.
